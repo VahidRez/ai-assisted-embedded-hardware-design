@@ -1,27 +1,54 @@
-# ai-assisted-embedded-hardware-design
-End-to-end embedded hardware design project using Altium Designer, combining traditional engineering practices with AI-assisted schematic review, PCB layout considerations, and documentation.
-
 # AI-Assisted Embedded Hardware Design
 
-This repository demonstrates a professional embedded hardware design workflow using Altium Designer, enhanced with AI-assisted schematic analysis, PCB layout considerations, and engineering documentation.
+This repository shows my embedded hardware design workflow using Altium Designer, datasheet-based decisions, schematic review, PCB thinking, and firmware planning.
 
-## Project Scope
-- Review and analysis of an embedded hardware schematic
-- Identification of critical components and design constraints
-- Power integrity, EMI/EMC, and layout considerations
-- Creation of a professional PCB design checklist
-- Preparation for firmware integration
+The goal of this project is to show how I approach a real embedded electronics design in a structured way, from power supply review to layout decisions and firmware preparation.
 
-## Tools & Technologies
+## What this repository includes
+
+- System overview
+- Design requirements
+- Schematic review
+- PCB design checklist
+- Datasheet references
+- Firmware planning notes
+
+## Why this project matters
+
+Many GitHub repositories show only code.  
+This one shows how I think as a hardware and embedded engineer:
+
+- reading datasheets carefully
+- checking power and signal flow
+- thinking about PCB layout early
+- preparing the design for firmware work
+- using AI as a support tool, not as a replacement for engineering judgment
+
+## Tools used
+
 - Altium Designer
-- Embedded hardware design best practices
-- AI-assisted engineering analysis
-- Datasheet-driven design decisions
+- STM32-based design thinking
+- Datasheet review
+- Embedded C planning
+- AI-assisted review for documentation and checklist creation
 
-## Objectives
-- Show real-world hardware engineering skills
-- Demonstrate structured documentation
-- Bridge traditional hardware design with AI-assisted workflows
+## Repository structure
 
-## Status
-Work in progress – iterative design and documentation updates.
+- `docs/` - engineering notes and review documents
+- `schematics/` - source schematic files
+- `pcb/` - PCB-related files
+- `datasheets/` - component reference files
+- `firmware/` - firmware planning and code notes
+
+## Current status
+
+This is an active portfolio project.  
+I am improving the documentation step by step to show a clean and professional embedded design workflow.
+
+## About me
+
+I am a hardware and embedded systems engineer with 10+ years of experience in PCB design, embedded firmware, STM32-based systems, debugging, and product development.
+
+LinkedIn:  https://www.linkedin.com/in/vahid-reza-ghafarian-jam/ 
+Email: vahid.ghafarian@gmail.com
+Location: Vancouver, CanadaPublic profile & URL
